@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=120L022115&count_private=true&show_icons=true&include_all_commits=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=120L022115)](https://github.com/120L022115)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErnestThePoet&theme=algolia&v=2)](https://github.com/120L022115)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErnestThePoet&v=2)](https://github.com/120L022115)
